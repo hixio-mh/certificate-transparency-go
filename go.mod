@@ -9,7 +9,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6
 	github.com/google/trillian v1.3.14-0.20210713114448-df474653733c
-	github.com/juju/ratelimit v1.0.1
+	github.com/juju/ratelimit v1.0.2
 	github.com/kylelemons/godebug v1.1.0
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
 	github.com/prometheus/client_golang v1.11.0
